@@ -38,7 +38,7 @@ fi
 # 配置部分
 #######################
 # GitHub 相关配置
-GH_DOWNLOAD_URL="${GH_PROXY}https://github.com/alist-org/alist/releases/latest/download"
+GH_DOWNLOAD_URL="${GH_PROXY}https://github.com/Huan-Starvm/alist/releases/latest/download"
 #######################
 
 # 颜色配置
